@@ -39,7 +39,7 @@ experience:
   - title: Spring Intern
     company: BlackRock
     company_url: ''
-    company_logo: org-x
+    company_logo: blackrock
     location: Edinburgh (online)
     date_start: '2021-04-07'
     date_end: '2021-04-11'

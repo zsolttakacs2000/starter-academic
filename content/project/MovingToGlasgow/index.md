@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/ZTakacs2000
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/ZTakacs2000
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-This was a great project to use the R knowledge I acquired during my first year at university.
+This was a great project to use the R knowledge I acquired during my first year at university. We used open data to answer some key questions about what it is like to live in Glasgow. Then I made some extra plots based on these open databases. As an international student, I was interested in the number of people whose mother tongue is not English. As the database used all the neighbourhoods in the city, I selected those that are more popular among students. Another aspect I was interested in is the way of transport people use in their day-to-day life. Once again, I showcased the areas that are more popular with the students.

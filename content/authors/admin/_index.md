@@ -10,7 +10,7 @@ role: Student at the University of Glasgow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University os Glasgow
+- name: University of Glasgow
   url: https://www.gla.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)

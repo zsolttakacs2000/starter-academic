@@ -14,7 +14,7 @@ organizations:
   url: https://www.gla.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Third year Computing Science/Psychology student from Hungary.
+bio: Third-year Computing Science/Psychology student from Hungary.
 
 # Interests to show in About widget
 interests:
@@ -36,7 +36,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:zsolt.takacs2000@gmail.com'
+#  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ZTakacs2000
@@ -64,8 +65,6 @@ email: "zsolt.takacs2000@gmail.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a third-year Computing Science and Psychology student at the University of Glasgow. I was born and raised just outside of Budapest, Hungary - hence the interesting name. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

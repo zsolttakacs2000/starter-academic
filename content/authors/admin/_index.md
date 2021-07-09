@@ -65,6 +65,6 @@ email: "zsolt.takacs2000@gmail.com"
 highlight_name: false
 ---
 
-I am a third-year Computing Science and Psychology student at the University of Glasgow. I was born and raised just outside of Budapest, Hungary - hence the interesting name. 
+- I am a third-year Computing Science and Psychology student at the University of Glasgow. I was born and raised just outside of Budapest, Hungary - hence the interesting name. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

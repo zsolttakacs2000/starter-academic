@@ -1,4 +1,6 @@
 ---
+authors:
+- admin
 # Display name
 title: Zsolt Takacs
 

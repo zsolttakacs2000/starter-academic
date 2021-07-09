@@ -1,7 +1,8 @@
 ---
 title: RateMyWalk webapp
 summary: Group Project for my Web App Development course
-tags:""
+tags:
+- Data
 date: "2021-07-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

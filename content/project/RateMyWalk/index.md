@@ -1,8 +1,7 @@
 ---
-title: Moving to Glasgow Data Challange
-summary: Data Challange from Summer '20 created by the Psychology Department at UofG
-tags:
-- Data
+title: Rate My Walk webapp
+summary: Group Project for my Web App Development course
+
 date: "2021-07-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,6 +29,8 @@ url_video: ""
 slides: ""
 ---
 
-This was a great project to use the R knowledge I acquired during my first year at university. We used open data to answer some key questions about what it is like to live in Glasgow. Then I made some extra plots based on these open databases. As an international student, I was interested in the number of people whose mother tongue is not English. As the database used all the neighbourhoods in the city, I selected those that are more popular among students. Another aspect I was interested in is the way of transport people use in their day-to-day life. Once again, I showcased the areas that are more popular with the students. The GitHub repository containing the RMarkdown on this project is available <a href="https://github.com/zsolttakacs2000/PsychDataChallangeR">here.</a>
+I made this website as part of a group for my Web App Development course. We used a wide range of different technologies to create and develop a website where users can share their favourite hikes and rate other users' routes. The main framework under the website was Django. However, a great deal of HTML, JavaScript, JQuery, Ajax and CSS was included for the best user experience.
+I was personally responsible for creating the Views, the sitemap and the Forms. I also adjusted the Models to match our ideas the best. Finally, I was also responsible for adding several functionalities to our website, including the comment, like, search and arrange features. Deploying the final project was also my job.
+You can check out our website <a href="http://team8f.pythonanywhere.com/RateMyWalk/">here.</a> The GitHub repository for this project is available <a href="https://github.com/JamesSharma04/RateMyWalk">here.</a>
 
-<img src="waysoftravelinglasgow1.png">
+<img src="rmw.png">

@@ -1,8 +1,7 @@
 ---
-title: Moving to Glasgow Data Challange
-summary: Data Challange from Summer '20 created by the Psychology Department at UofG
-tags:
-- Data
+title: RateMyWalk webapp
+summary: Group Project for my Web App Development course
+tags:""
 date: "2021-07-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zsolt Takacs
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student at the University of Glasgow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University os Glasgow
+  url: https://www.gla.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Third year Computing Science/Psychology student from Hungary.
 
 # Interests to show in About widget
 interests:

@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Class Representative
     company: University of Glasgow
-    company_url: 'gla.ac.uk'
+    company_url: ''
     company_logo: uofg
     location: Glasgow
     date_start: '2020-09-21'
@@ -43,7 +43,7 @@ experience:
     location: Edinburgh (online)
     date_start: '2021-04-07'
     date_end: '2021-04-11'
-    description: Sping Week Internship with BlackRock to get to know the Aladding Project Group.
+    description: Sping Week Internship with BlackRock to get to know the Aladdin Project Group.
 
 design:
   columns: '2'

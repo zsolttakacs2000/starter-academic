@@ -25,7 +25,7 @@ experience:
   - title: Class Representative
     company: University of Glasgow
     company_url: 'gla.ac.uk'
-    company_logo: org-gc
+    company_logo: uofg
     location: Glasgow
     date_start: '2020-09-21'
     date_end: '2021-06-15'

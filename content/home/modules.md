@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: My Modules
+title: Modules
 subtitle:
 weight: 70  # section position on page
 design:

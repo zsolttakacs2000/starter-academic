@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: My Modules
-    url: '#my-modules'
+  - name: Modules
+    url: '#modules'
     weight: 40
   - name: Contact
     url: '#contact'
